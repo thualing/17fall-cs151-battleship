@@ -1,0 +1,5 @@
+package battleship;
+
+public enum GameStates {
+    PLAYER1_SETUP, PLAYER2_SETUP, PLAYER1_ATTACK, PLAYER2_ATTACK, PLAYER1_WIN, PLAYER2_WIN
+}
